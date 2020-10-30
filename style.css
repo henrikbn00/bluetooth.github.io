@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 header{
-   background-image:url("Images/concert_2.jpg");
+   background-image:url("/Images/concert_2.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center;
