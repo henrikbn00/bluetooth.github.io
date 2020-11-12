@@ -91,30 +91,5 @@ h1 a {
     margin-top: 40px;
 }
 
-.rows{
-    position: absolute;
-    right: 50%;
-    top: 100%;
-
-}
-
-.collum{
-    position: absolute;
-    left: 60%;
-    top: 100%;
-}
-
-.collums{
-    position: absolute;
-    right: 40%;
-    top: 150%;
-}
-
-.last{
-    position: absolute;
-    right: 30%;
-    top: 210%;
-
-}
 
 
